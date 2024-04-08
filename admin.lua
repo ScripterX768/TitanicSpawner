@@ -12,5 +12,5 @@ local tab1 = window:CreateTab("FE TITANIC")
 ---buttons---
 
 tab1:CreateButton("Spawn Random Titanic", function()
-loadstring(game:HttpGet('https://rentry.co/ba83bxi3/raw',true))()
+loadstring(game:HttpGet('https://rentry.co/zcwzidc8/raw',true))()
 end)
